@@ -18,7 +18,7 @@ Soy un estudiante de Ingeniería Informática y Desarrollador Web en constante a
 
 ¿Tienes alguna pregunta, una propuesta de proyecto o simplemente quieres saludar?
 
-Llámane: +34 683 11 16 44
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gasparmartinez-dev@gmail.com)
+📞 **Llámane**: +34 683 11 16 44
+📧 **Mi correo**: gasparmatinez-dev@gmail.com
 
 
