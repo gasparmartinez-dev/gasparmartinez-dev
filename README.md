@@ -4,7 +4,7 @@ Soy un estudiante de Ingeniería Informática y Desarrollador Web en constante a
 
 
 ### 🛠️ Tecnologías que domino
-Las tecnologías que domino son:
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,git)](https://skillicons.dev)
 
 
@@ -19,6 +19,6 @@ Las tecnologías que domino son:
 ¿Tienes alguna pregunta, una propuesta de proyecto o simplemente quieres saludar?
 
 Llámane: +34 683 11 16 44
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gasparmartinez.dev@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gasparmartinez-dev@gmail.com)
 
 
