@@ -12,7 +12,7 @@ Soy un estudiante de Ingeniería Informática y Desarrollador Web en constante a
 
 | Mi Actividad | Lenguajes más usados |
 | :---: | :---: |
-| ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=gasparmartinez-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true) | ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=gasparmartinez-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6) |
+| ![Estadísticas Generales](https://github-readme-stats-one-bice.vercel.app/api?username=gasparmartinez-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true) | ![Lenguajes Top](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gasparmartinez-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6) |
 
 ### 📬 ¡Hablemos!
 
